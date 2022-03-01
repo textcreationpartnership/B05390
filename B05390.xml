@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edinburgh, the last day of January, 1673. The lords of His Majesties Privy Council considering, that by the tenth act of the third session of the second Parliament, entituled, Act concerning apparel, they are impowered to take such course, as they shall think fit, to make the said act effectual ...</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05390</idno>
+            <idno type="STC">Wing S1519B</idno>
+            <idno type="STC">ESTC R183083</idno>
+            <idno type="EEBO-CITATION">51784652</idno>
+            <idno type="OCLC">ocm 51784652</idno>
+            <idno type="VID">175057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05390)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175057)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Edinburgh, the last day of January, 1673. The lords of His Majesties Privy Council considering, that by the tenth act of the third session of the second Parliament, entituled, Act concerning apparel, they are impowered to take such course, as they shall think fit, to make the said act effectual ...</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by His Majesties Printers,</publisher>
+                  <pubPlace>[Edinburgh,</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first line of text.</note>
+                  <note>Title vignette: royal arms with initials C R; initial letter.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sumptuary laws --  Scotland --  Early works to 1800.</term>
+               <term>Clothing and dress --  Social aspects --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Economic conditions --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="license">
+            <pb facs="tcp:175057:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 108 -->
+            <pb facs="tcp:175057:1"/>
+            <!-- PDF PAGE 108 -->
+            <pb facs="tcp:175057:2"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:175057:2"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:175057:3"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:175057:3"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:175057:4"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:175057:4"/>
+            <!-- PDF PAGE 111 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+                  <p>HONI SOIT QUI MAL Y PENSE</p>
+               </figure>
+EDINBURGH, <date>The laſt day of <hi>January,</hi> 1673.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords of His <hi>Majeſties</hi> Privy Council conſidering, that by the tenth Act of the third Seſſion of the ſecond Parliament, Entituled, <hi>Act concerning Apparel,</hi> they are impowered to take ſuch courſe, as they ſhall think fit, to make the ſaid Act effectual; And they being fully reſolved to ſee the ſaid Act put in execution, have thought fit, to cauſe the ſaid Act of Par<g ref="char:EOLhyphen"/>liament to be printed apart, and publiſhed at the head Burghs of the ſeveral Shires of this King<g ref="char:EOLhyphen"/>dom, that all His <hi>Majeſties</hi> Subjects may have timous notice thereof, and give obedience thereto, and that no perſon pretend ignorance of the ſame. Of which Act of Parliament, the Tenor follows.</p>
+            <closer>
+               <signed>
+                  <hi>Al. Gibſon,</hi> Cl. S<hi rend="sup">ti</hi>. Concilii.</signed>
+            </closer>
+         </div>
+         <div type="Act_of_Scottish_Parliament">
+            <pb n="2" facs="tcp:175057:5"/>
+            <!-- PDF PAGE 112 -->
+            <head>ACT Concerning APPARELL.</head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh,</hi> 
+                  <date>26. of <hi>July,</hi> 1672.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Soveraign Lord, conſidering the great prejudice which this King<g ref="char:EOLhyphen"/>dom doth ſuſtain, by the ſumptu<g ref="char:EOLhyphen"/>ouſneſs and prodigality which all ſorts of Perſons uſe in their Appa<g ref="char:EOLhyphen"/>rell, without regard to, or diſtin<g ref="char:EOLhyphen"/>ction of, their ſeveral degrees and qualities; conſiderable ſummes of money being <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon that occaſion, unneceſſarily exported out of the Kingdom, and the Native Commodities and Manufactories thereof being thereby neglected, and not improven for the uſe and advantage of the Inhabitants: For remeld whereof, His <hi>Majeſty,</hi> with advice and conſent of His Eſtates of Par<g ref="char:EOLhyphen"/>liament, Statutes and Ordains, that none of His <hi>Majeſties</hi> Subjects of this Kingdom, of whatſoever degree, condition or quality, ſhall, after the firſt day of <hi>June,</hi> One thouſand ſix hundered threeſcore thirteen Years, wear any Clothes or Apparell wherein there is any Gold or Silver; or wear any Gold or ſilver Laces of whatſoever kind, Buttons, Ribbands, Tracings, Fringes or Louping made of Gold or Silver; Or have any Imbroide<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of Gold or Silver upon their Ap<g ref="char:EOLhyphen"/>parell, Sword belts or any other manner of way: Excepting alwayes Buttons, Buckles and Hilts of Swords of Gold-ſmith<g ref="char:EOLhyphen"/>work, which the Privileged Perſons after-expreſt are allowed to wear, and no others: And that none wear any Flowred Stuffs, Stripped Stuffs, or Brocado's of Silk, or have any Silk-lace, Gimp-lace, or any other kind of Lace or Imbroi<g ref="char:EOLhyphen"/>dering
+<pb n="3" facs="tcp:175057:5"/>
+               <!-- PDF PAGE 112 -->of Silk upon their wearing Clothes: And that no perſon preſume to import into this Kingdom, or make, or ſell therein any of the Commodities above-expreſt after the date hereof; Certifying ſuch as ſhall contraveen, that they ſhall be lyable in the pains following, <hi>viz.</hi> The Importer, Maker and Seller, ſhall be fyned in One thouſand pounds <hi>Scots,</hi> by and attour the Confiſcation of the Goods ſo imported, made or ſold: And the Wearer thereof in Five hundered merks <hi>Scots, totiès quotiès,</hi> by and attour the Confiſcation of the Clothes. And it is hereby Declared, that the Importer of ſuch prohibited Goods ſhall not have Action, for the price thereof, againſt the Merchant, for whoſe uſe the ſame were imported; Nor the Seller thereof againſt the Buyer, albeit Bands be given for the ſame, if it can be made appear that the Bands were given for that cauſe: Excepting al<g ref="char:EOLhyphen"/>wayes from this preſent Act, Comedians, as to the Clothes which they make uſe of upon the Stage; Heraulds, as to their Coats, and His <hi>Majeſties</hi> Trumpetters, And alſo excepting Pages and Lacqueys of the priviledged Perſons afternamed, as to Silk-laces and Paſments allanerly, which they are hereby al<g ref="char:EOLhyphen"/>lowed to wear upon their Livery-clothes. And His <hi>Majeſty,</hi> with advice foreſaid, Doth Statute and Ordain, that none of His Subjects ſhall after the fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt of <hi>June</hi> next, wear any Clo<g ref="char:EOLhyphen"/>thing or Apparell of Velvet, Sattin or other Stuffs of Silk, or wear any Beaver-hats, under the pain of Five hundered merks; to be payed by the Contraveener, <hi>totiès quotiès:</hi> Except Noble<g ref="char:EOLhyphen"/>men, Prelates, His <hi>Majeſties</hi> Counſellors, Lords of Seſſion, and ſuch Barons, Knights, or Gentlemen, who have of yearly valued Rent Two thouſand pounds <hi>Scots</hi> money; And the Provoſts of the principal Burrows within this Kingdom; Or theſe that have been Provoſts, and ſuch alſo as ſhall befor the time, or have been Provoſts, Baillies, Dean of Gild or Theaſurer within the Town of <hi>Edinburgh:</hi> Excepting alſo Rectors of Univerſities, and the Wives of the ſaids Priviledged Perſons, their eldeſt Sons and eldeſt Daughters unmarried, and all the Children of Noble<g ref="char:EOLhyphen"/>men. And that none wear any Ribbands or Louping made of Silk upon their Apparell, or any white Lace, or Po<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt made of Threed, under the pain of Five hundered merks <hi>Scots, totiès quotiès;</hi> Ex<g ref="char:EOLhyphen"/>cepting the Priviledged Perſons aforeſaid, who are hereby al<g ref="char:EOLhyphen"/>lowed to wear plain Taffety-ribbands upon their Apparell, and to wear white Lace, or Point made of Three upon their Linnings only. And all Perſons whatſoever are hereby prohibited to wear Feathers, except Souldiers, under the pain aforeſaid: But pre<g ref="char:EOLhyphen"/>judice alwayes to all ranks of Perſons (except thoſe of the Yeo<g ref="char:EOLhyphen"/>manry) to wear plain Taffety Ribbands upon ſuch parts of their Apparell where they may have occaſion of the ſame for Tyes; and to Women to wear Hoods and Skarfs of Taffety: And but
+<pb n="4" facs="tcp:175057:6"/>
+               <!-- PDF PAGE 113 -->prejudice to domeſtick ſervants to wear their Maſters or Miſtriſſes old Clothes, allowed to them by this Act. And for the better effectuating hereof, His <hi>Majeſty</hi> with advice foreſaid, Ordains all Collectors of Aſſeſsment and Exciſe, and their Sub-col<g ref="char:EOLhyphen"/>lectors, Farmorers and Collectors of Cuſtomes, and Waiters in Burgh or Land, at every Term to give up, upon Oath, to the Commiſſioners of Exciſe in the ſeveral Shires and Burghs, and to the General Collectors of the Cuſtoms and Exciſe, Liſts of all thoſe whom they have ſeen and obſerved to tranſgreſs this Act: And it is hereby Declared, that the one half of the penalties aforeſaid ſhall belong to themſelves, and the other half ſhall be collected by them for His <hi>Majeſties</hi> uſe; Trial being firſt taken, and the Perſons found guilty, by the Commiſſioners of Aſſeſs<g ref="char:EOLhyphen"/>ment or Exciſe, Juſtices of Peace, or other ordinary Magiſtrate of the place: And ſuch Contraveeners as they ſhall not give in<g ref="char:EOLhyphen"/>formation of, that the one half of their Fynes ſhall belong to any other perſon who ſhall diſcover them. And in caſe the ſaid Col<g ref="char:EOLhyphen"/>lectors of Aſſeſsment and Exciſe, Farmorers and Collectors of Cuſtoms, or Waiters, ſhall failzie to give up the ſaids Liſts as aforeſaid, They ſhall thereby loſe their places, and be incapable of that Service for ever. It is alwayes provided, that no per<g ref="char:EOLhyphen"/>ſons contraveening this Act, ſhall be liable to the ſaids penalties, unleſs their names be given up within the ſpace of three months after their incurring thereof: But prejudice alwayes to any other perſon, who ſhall diſcover the Contraveeners in manner foreſaid, of the one half of the penalties, whenſoever they ſhall diſcover them. Likeas, the Commiſſioners of His <hi>Majeſties</hi> Juſticiary are hereby required to give Order, at their Circuit Courts, to take up Dittays againſt the Tranſgreſſors of this Act; and to proceed againſt them, by fyning them in the ſumms abovemen<g ref="char:EOLhyphen"/>tioned, and to exact the ſame. Likeas, His <hi>Majeſty,</hi> with ad<g ref="char:EOLhyphen"/>vice foreſaid, Doth hereby Authorize and Impower the Lords of His Privy Council, to take ſuch further courſe for making this Act effectual, as They ſhall think fit.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Printed by His MAjESTIES Printers, <hi>Anno Dom.</hi> 1673.</p>
+            <pb facs="tcp:175057:6"/>
+            <!-- PDF PAGE 113 -->
+         </div>
+      </back>
+   </text>
+</TEI>
